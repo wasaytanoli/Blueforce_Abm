@@ -28,6 +28,18 @@ python2 ab.sys
 Username : Abm
 Password : Abm
 ```
+# <p align="center"> Option
+  
+```
+1 > login with token
+2 > login with password
+3 > without login Ph.nbr cloning
+4 > Without login Search name cloning
+5 > clone friendlist
+6 > clone public ID
+7 > clone Follwors ID
+8 > Abm-Token 
+```
 
 # <p align="center"> Avaible on
   
