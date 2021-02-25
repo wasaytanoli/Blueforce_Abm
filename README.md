@@ -8,7 +8,8 @@
 
 ![king](https://user-images.githubusercontent.com/52023076/108603102-cf790d80-735a-11eb-8659-c165399b1998.jpg)
 
-# <p align="center">
+# <p align="center"> Command
+  
 ```
 pkg update && upgrade
 pkg install git
@@ -22,16 +23,20 @@ cd Blueforce--Abm
 python2 ab.sys
 ```
 # <p align="center"> Tool User And Pasa
+  
 ```
 Username : Abm
 Password : Abm
 ```
+
 # <p align="center"> Avaible on
+  
 ```
 termux
 linux
 ```
 # <p align="center"> Author
+  
 ```
 Alone codder : Tech Abm
 ```
