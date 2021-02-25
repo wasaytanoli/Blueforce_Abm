@@ -6,9 +6,9 @@
 <a href="https://bit.ly/3jLqF1P"><img title="Version" src="https://img.shields.io/badge/Version-3.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
-![king](https://user-images.githubusercontent.com/52023076/108603102-cf790d80-735a-11eb-8659-c165399b1998.jpg)
+<p align="center"> ![king](https://user-images.githubusercontent.com/52023076/108603102-cf790d80-735a-11eb-8659-c165399b1998.jpg)
 
-# Blurforce--Abm
+# <p align="center">
 ```
 pkg update && upgrade
 pkg install git
@@ -21,17 +21,17 @@ git clone https://github.com/Tech-abm/Blueforce--Abm
 cd Blueforce--Abm
 python2 ab.sys
 ```
-# Tool User And Pasa
+# <p align="center"> Tool User And Pasa
 ```
 Username : Abm
 Password : Abm
 ```
-# Avaible on
+# <p align="center"> Avaible on
 ```
 termux
 linux
 ```
-# Author
+# <p align="center"> Author
 ```
 Alone codder : Tech Abm
 ```
