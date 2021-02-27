@@ -51,7 +51,7 @@ Alone codder : Tech Abm
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-# <p align="center"> Follows on socila media
+# <p align="center"> Follows us on socila media
   
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
