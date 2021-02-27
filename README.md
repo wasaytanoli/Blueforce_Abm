@@ -38,7 +38,7 @@
 * `7 > clone Follwors ID`
 * `8 > Abm-Token `
 
-# <p align="center"> Avaible on
+# <p align="center"> available on
   
 * `termux`
 * `linux`
