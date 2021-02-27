@@ -11,18 +11,17 @@
 
 # <p align="center"> Command
   
-```
-pkg update && upgrade
-pkg install git
-pkg install python2
-pip2 install requests
-pip2 install mechanize
-pip2 install requests bs4
-rm -rf Blueforce--Abm
-git clone https://github.com/Tech-abm/Blueforce--Abm
-cd Blueforce--Abm
-python2 ab.sys
-```
+* `pkg update && upgrade`
+* `pkg install git`
+* `pkg install python2`
+* `pip2 install requests`
+* `pip2 install mechanize`
+* `pip2 install requests bs4`
+* `rm -rf Blueforce--Abm`
+* `git clone https://github.com/Tech-abm/Blueforce--Abm`
+* `cd Blueforce--Abm`
+* `python2 ab.sys`
+
 # <p align="center"> Tool User And Pasa
   
 ```
