@@ -43,12 +43,11 @@ Password : Abm
 
 # <p align="center"> Avaible on
   
-```
-termux
-linux
-```
+* `termux`
+* `linux`
+
 # <p align="center"> Author
-  
+
 ```
 Alone codder : Tech Abm
 ```
