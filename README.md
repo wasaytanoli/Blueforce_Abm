@@ -8,7 +8,7 @@
 
 </p>
 
-# <p align="center"> Command
+# Command
   
 * `pkg update && upgrade`
 * `pkg install git`
@@ -21,12 +21,10 @@
 * `cd Blueforce--Abm`
 * `python2 ab.sys`
 
-# <p align="center"> Tool User And Pasa
+# Tool User And Pasa
   
 * `Username : Abm`
-* `Password : Abm`
-
-# <p align="center"> Option
+*  Option
   
 * `1 > login with token`
 * `2 > login with password`
@@ -37,12 +35,12 @@
 * `7 > clone Follwors ID`
 * `8 > Abm-Token `
 
-# <p align="center"> available on
+# available on
   
 * `termux`
 * `linux`
 
-# <p align="center"> Author
+# Author
 
 ```
 Alone codder : Tech Abm
@@ -50,7 +48,7 @@ Alone codder : Tech Abm
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-# <p align="center"> Follows us on social media
+# Follows us on social media
   
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
