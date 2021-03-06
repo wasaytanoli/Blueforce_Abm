@@ -6,7 +6,6 @@
 <a href="https://bit.ly/3jLqF1P"><img title="Version" src="https://img.shields.io/badge/Version-3.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
-<p align="center"><a href="https://github.com/Tech-abm"><img src="https://user-images.githubusercontent.com/52023076/109343715-9c36f280-7822-11eb-9166-880204fe6fbe.jpg" alt="Bt">
 </p>
 
 # <p align="center"> Command
