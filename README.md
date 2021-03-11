@@ -25,7 +25,7 @@
   
 * `Username : Abm`
 * `Password : Abm`
-*  Option
+# Option
   
 * `1 > login with token`
 * `2 > login with password`
