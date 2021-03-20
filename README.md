@@ -8,39 +8,40 @@
 
 </p>
 
-# Command
-  
-* `pkg update && upgrade`
-* `pkg install git`
-* `pkg install python2`
-* `pip2 install requests`
-* `pip2 install mechanize`
-* `pip2 install requests bs4`
-* `rm -rf Blueforce--Abm`
-* `git clone https://github.com/Tech-abm/Blueforce--Abm`
-* `cd Blueforce--Abm`
-* `python2 ab.sys`
-
+# Script run on termux or linux 
+```  
+➤ pkg update && upgrade
+➤ pkg install git && pkg install python2
+➤ pkg install python && pkg install php
+➤ pip install requests && pip install mechanize 
+➤ pip2 install mechanize && pip2 install requests 
+➤ pip2 install requests bs4
+➤ rm -rf Blueforce--Abm
+➤ git clone https://github.com/Tech-abm/Blueforce--Abm
+➤ cd Blueforce--Abm
+➤ python2 ab.sys
+```
 # Tool User And Pasa
-  
-* `Username : Abm`
-* `Password : Abm`
+```  
+➤ Username : Abm
+➤ Password : Abm 
+```
 # Option
-  
-* `1 > login with token`
-* `2 > login with password`
-* `3 > without login Ph.nbr cloning`
-* `4 > Without login Search name cloning`
-* `5 > clone friendlist`
-* `6 > clone public ID`
-* `7 > clone Follwors ID`
-* `8 > Abm-Token `
-
+```  
+> login with token
+> login with password
+> without login Ph.nbr cloning
+> Without login Search name cloning
+> clone friendlist
+> clone public ID
+> clone Follwors ID
+> Abm-Token 
+```
 # available on
-  
-* `termux`
-* `linux`
-
+```  
+➤ termux
+➤ linux
+```
 # Author
 
 ```
