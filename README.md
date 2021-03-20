@@ -21,7 +21,7 @@
 ➤ cd Blueforce--Abm
 ➤ python2 ab.sys
 ```
-# Tool User And Pasa
+# Tool User And Pass
 ```  
 ➤ Username : Abm
 ➤ Password : Abm 
