@@ -7,13 +7,13 @@
 <a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
 
-# Note
-```
-*** Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
-I hope you understand my bad language 3:) ***
-```
+## Note
 
-# Script run on termux or linux 
+***Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
+I hope you understand my bad language 3:) ***
+
+
+## Script run on termux or linux 
 ```  
 ➤ pkg update && upgrade
 ➤ pkg install git && pkg install python2
@@ -26,12 +26,12 @@ I hope you understand my bad language 3:) ***
 ➤ cd Blueforce--Abm
 ➤ python2 ab.sys
 ```
-# Tool User And Pass
+## Tool User And Pass
 ```  
 ➤ Username : Abm
 ➤ Password : Abm 
 ```
-# Option
+## Option
 ```  
 > login with token
 > login with password
@@ -42,12 +42,12 @@ I hope you understand my bad language 3:) ***
 > clone Follwors ID
 > Abm-Token 
 ```
-# available on
+## available on
 ```  
 ➤ termux
 ➤ linux
 ```
-# Author
+## Author
 
 ```
 Alone codder : Tech Abm
