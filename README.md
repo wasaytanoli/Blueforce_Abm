@@ -9,8 +9,8 @@
 
 # Note
 ```
-Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
-I hope you understand my bad language 3:)
+*** Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
+I hope you understand my bad language 3:) ***
 ```
 
 # Script run on termux or linux 
