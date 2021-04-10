@@ -8,7 +8,7 @@
 
 
 ## Note
-
+<p align="center">
 ***Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
 I hope you understand my bad language 3:)***
 
@@ -55,7 +55,7 @@ Alone codder : Tech Abm
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-# Follows us on social media
+## Follows us on social media
   
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
