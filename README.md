@@ -17,16 +17,22 @@ I hope you understand my bad language 3:)
 
 ## Script run on termux or linux 
 ```  
-➤ pkg update && upgrade
-➤ pkg install git && pkg install python2
-➤ pkg install python && pkg install php
-➤ pip install requests && pip install mechanize 
-➤ pip2 install mechanize && pip2 install requests 
-➤ pip2 install requests bs4
-➤ rm -rf Blueforce--Abm
-➤ git clone https://github.com/Tech-abm/Blueforce--Abm
-➤ cd Blueforce--Abm
-➤ python2 ab.sys
+pkg update
+pkg upgrade
+pkg install git
+pkg install python2
+pkg install python3
+rm -rf Blueforce--Abm
+git clone https://github.com/Tech-abm/Blueforce--Abm
+cd Blueforce--Abm
+pip install requests
+pip install mechanize
+pip2 install requests
+pip2 install mechanize
+pip install requests bs4
+pip install tqdm
+pip install requests tqdm
+python3 blueforce.indirect
 ```
 ## Tool User And Pass
 ```  
