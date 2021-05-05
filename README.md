@@ -32,7 +32,7 @@ pip2 install mechanize
 pip install requests bs4
 pip install tqdm
 pip install requests tqdm
-python3 blueforce.indirect
+python2 blueforce.indirect
 ```
 ## Tool User And Pass
 ```  
