@@ -21,6 +21,7 @@ pkg update
 pkg upgrade
 pkg install python2 -y
 pkg install git -y
+rm -rf Blueforce_Abm
 git clone https://github.com/Tech-abm/Blueforce_Abm
 cd Blueforce_Abm
 pip2 install mechanize
