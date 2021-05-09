@@ -26,6 +26,9 @@ git clone https://github.com/Tech-abm/Blueforce_Abm
 cd Blueforce_Abm
 pip2 install mechanize
 pip2 install requests
+pip2 install nodejs 
+pip2 install npm 
+pip2 install requests bs4
 python2 blueforce.indirect
 ```
 ## Tool User And Pass
